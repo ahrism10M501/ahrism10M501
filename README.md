@@ -1,3 +1,5 @@
+
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:dc00c9,100:0082ff&height=200&section=header&text=ahrism&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Practical%20AI%20Systems%20%C2%B7%20Physical%20Agents&descSize=16&descAlignY=58&descAlign=50" width="100%" />
 </div>
@@ -90,10 +92,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahrism10m501&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=dc00c9&icon_color=0082ff&text_color=333333&ring_color=ff0000" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahrism10m501&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=dc00c9&text_color=333333" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahrism10m501&show_icons=true&hide_border=true&bg_color=0d1117&title_color=dc00c9&icon_color=0082ff&text_color=ffffff&ring_color=ff0000" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahrism10m501&layout=compact&hide_border=true&bg_color=0d1117&title_color=dc00c9&text_color=ffffff" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahrism10m501&hide_border=true&background=ffffff&ring=ff0000&fire=dc00c9&currStreakLabel=0082ff&sideLabels=333333&dates=666666&currStreakNum=333333&sideNums=333333" width="600" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahrism10m501&hide_border=true&background=0d1117&ring=ff0000&fire=dc00c9&currStreakLabel=0082ff&sideLabels=ffffff&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" width="600" />
 
 </div>
 
