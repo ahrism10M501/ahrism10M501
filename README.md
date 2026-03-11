@@ -1,22 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:dc00c9,100:0082ff&height=200&section=header&text=ahrism&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Brain%20%C3%97%20Machine%20%C2%B7%20BCI%20%2B%20Signal%20Processing&descSize=16&descAlignY=58&descAlign=50" width="100%" />
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:dc00c9,100:0082ff&height=200&section=header&text=ahrism&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Practical%20AI%20Systems%20%26%20Physical%20Agents&descSize=16&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
 ## 👋 소개
 
-**뇌-컴퓨터 인터페이스(BCI)** 와 **신호 처리**를 공부하고 있습니다.
+**인공지능(AI)** 과 **데이터 분석**, 그리고 **Physical AI**를 연구하고 있습니다.
 
-소드 아트 온라인을 보면서 풀다이브(Full-Dive) VR에 꽂혔고,
-그때부터 "뇌 신호를 읽어서 가상 세계에 들어갈 수 있으면 어떨까?" 하는 생각을 계속 하고 있습니다.
+데이터를 통해 현상을 분석하고, 이를 바탕으로 실제 세계의 문제를 해결하는 AI 에이전트(AI Agent)와 엣지 AI(Edge AI) 기술에 깊은 관심을 가지고 있습니다. 단순히 완성된 모델이나 라이브러리를 사용하는 것을 넘어, 알고리즘을 밑바닥부터(From Scratch) 직접 구현하며 원리를 깊이 있게 이해하는 과정을 중요하게 생각합니다.
 
-몸이 불편하든, 감각에 제약이 있든 — 가상 세계에서만큼은 누구나 자유롭게 뛰어다닐 수 있는 날이 올 거라고 생각합니다.
-그 날을 위해 뇌 신호를 읽고, 해석하고, 컴퓨터와 연결하는 기술을 만들어가고 있습니다.
-
-```
-현실의 한계 ──▶ 뇌 신호 해석 ──▶ BCI 인터페이스 ──▶ Full-Dive VR ──▶ 모두를 위한 세상
-```
+소프트웨어의 지능이 현실 세계와 맞닿아 상호작용하는 지점을 만들어가고 있습니다.
 
 ---
 
@@ -26,40 +18,40 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Brain-Computer Interface
-- EEG / ECoG 신호 수집 및 분석
-- Motor Imagery Classification
-- Neural Decoding & Encoding
-- Invasive / Non-invasive BCI 패러다임
+### 🤖 Practical Deep Learning
+- PyTorch / TensorFlow 기반 모델 설계
+- 신경망 알고리즘 From-scratch 구현
+- 컴퓨터 비전(CV) 및 시계열 데이터 분석
+- AI 모델 학습 최적화 및 평가
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 Signal Processing
-- 시계열 신호 필터링 및 전처리
-- FFT, Wavelet Transform
-- Artifact Removal (EOG, EMG)
-- Feature Extraction for Neural Signals
+### ⚙️ Physical AI & Edge AI
+- AI Agent 기반 문제 해결 파이프라인
+- Smart Factory 및 센서 데이터 처리
+- 제한된 환경에서의 Edge AI 추론
+- 하드웨어와 소프트웨어의 통합(C++/Arduino)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🥽 Full-Dive VR
-- Sensory Feedback Systems
-- Haptic & Neural Stimulation
-- Real-time Brain-to-VR Pipeline
-- 가상 세계 접근성(Accessibility)
+### 📊 Data Analytics
+- Python / C++ 기반 대용량 데이터 처리
+- 통계적 데이터 분석 및 시각화 (EDA)
+- 공공 데이터 및 소셜 데이터 분석 파이프라인
+- 데이터 기반 의사결정 모델링
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 ML for BCI
-- Deep Learning 기반 EEG 분류
-- CNN / RNN / Transformer on Neural Data
-- Transfer Learning across Subjects
-- Online Adaptive BCI Systems
+### 💻 Algorithm & Software Design
+- C++ (Modern C++) 기반 성능 최적화
+- 객체지향 프로그래밍 및 디자인 패턴 적용
+- 하드웨어 제어 및 저수준 프로그래밍
+- 효율적인 데이터 구조 및 알고리즘 설계
 
 </td>
 </tr>
@@ -75,14 +67,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-#### ML / Signal Processing
+#### AI & Data Analysis
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![MNE](https://img.shields.io/badge/MNE--Python-3E7CB1?style=for-the-badge&logoColor=white)
 
 #### Infra & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -122,7 +113,7 @@
 
 <div align="center">
 
-*"The brain is the last frontier, and VR is the gateway."*
+*"Transforming data into intelligence, and intelligence into real-world action."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0082ff,50:dc00c9,100:ff0000&height=100&section=footer" width="100%" />
 
