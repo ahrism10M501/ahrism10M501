@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:dc00c9,100:0082ff&height=200&section=header&text=ahrism&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Practical%20AI%20Systems%20%26%20Physical%20Agents&descSize=16&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:dc00c9,100:0082ff&height=200&section=header&text=ahrism&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Practical%20AI%20Systems%20%C2%B7%20Physical%20Agents&descSize=16&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
 ## 👋 소개
