@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인계정ID&layout=compact&theme=vision-friendly-dark)
-[![github contribution grid snake](https://github-readme-stats.vercel.app/api?username=본인계정ID&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahrism10M501&layout=compact&theme=vision-friendly-dark)
+[![github contribution grid snake](https://github-readme-stats.vercel.app/api?username=ahrism10M501&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
