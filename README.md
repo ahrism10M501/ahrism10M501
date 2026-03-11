@@ -1,9 +1,6 @@
 <div align="center">
-
 <!-- Header Banner - 빨강/마젠타/파랑 웨이빙 그라데이션, 흰 배경 -->
-<div align="center">
-<!-- Header Banner - 빨강/마젠타/파랑 웨이빙 그라데이션, 흰 배경 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:dc00c9,100:0082ff&height=200&section=header&text=ahrism10m501&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Brain%20%C3%97%20Machine%20%C2%B7%20BCI%20%26%20Signal%20Processing&descSize=16&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:dc00c9,100:0082ff&height=200&section=header&text=ahrism&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Brain%20%C3%97%20Machine%20%C2%B7%20BCI%20%26%20Signal%20Processing&descSize=16&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
 </div>
