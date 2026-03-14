@@ -20,7 +20,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Practical Deep Learning
+### Practical Deep Learning
 - PyTorch / TensorFlow 기반 모델 설계
 - 신경망 알고리즘 From-scratch 구현
 - 컴퓨터 비전(CV) 및 시계열 데이터 분석
@@ -72,7 +72,6 @@
 
 #### AI & Data Analysis
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
